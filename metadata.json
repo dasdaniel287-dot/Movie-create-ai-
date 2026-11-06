@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse AI",
+  "description": "Discover, stream, and legally download movies with AI-powered recommendations, natural language search, and a cinematic viewing experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
